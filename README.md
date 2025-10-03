@@ -1,4 +1,9 @@
-I’m a Full Stack Developer with over 2 years of hands-on experience in building <b>enterprise-level applications and scalable systems</b>. My core strength lies in crafting beautiful, high-performance user interfaces and designing efficient APIs that ensure seamless data flow. Focus Areas: Performance optimization, clean architecture, and elegant UI/UX<br><br>I’m a fast and self-learner who loves solving problems and thrives both independently and as a strong team player. Most of my journey has been driven by personal projects and continuous learning, where I push myself to adopt best practices and new technologies.Currently, I’m building full stack projects with Next.js, focusing on performance optimization and scalability. My long-term goal is to master building enterprise-grade applications that are robust, user-friendly, and efficient.
+I’m a Full Stack Developer with over 2 years of hands-on experience in building <b> Full stack Web applications</b>.  </br>
+Focus Areas: Performance optimization, clean architecture, and elegant UI/UX
+
+<!-- <br><br>
+I’m a fast and self-learner who loves solving problems and thrives both independently and as a strong team player. Most of my journey has been driven by personal projects and continuous learning, where I push myself to adopt best practices and new technologies. -->
+Currently, I’m building full stack projects with Next.js, focusing on performance optimization and scalability. My long-term goal is to master building enterprise-grade applications that are robust, user-friendly, and efficient.
 
 
 <div align="center">
