@@ -1,9 +1,10 @@
-🚀 Hi there! I’m a Full Stack Developer with 2+ years of experience building full-stack web applications, focusing on clean architecture, performance, and modern technologies like Next.js. I love tackling coding challenges and turning complex problems into simple, elegant solutions.
+🚀 Hi there! I’m a Full Stack Developer with 2+ years of hands-on experience building web applications through real-world projects and continuous self-learning. 
+
+I focus on clean architecture, performance, and modern technologies like Next.js, and I enjoy solving coding challenges by turning complex problems into simple, elegant solutions.  
 
 <!-- <br><br>
 I’m a fast and self-learner who loves solving problems and thrives both independently and as a strong team player. Most of my journey has been driven by personal projects and continuous learning, where I push myself to adopt best practices and new technologies. -->
-Currently, I’m building full-stack projects with **Next.js**, focusing on performance optimization and scalability.  
-My long-term goal is to grow with a company where I can apply my skills to build enterprise-grade applications that are robust, user-friendly, and efficient.
+Currently, I’m building full-stack projects with Next.js, applying best practices in performance optimization and scalability. My long-term goal is to grow with a forward-thinking company where I can contribute to building enterprise-grade applications that are robust, user-friendly, and efficient.
 
 
 
