@@ -1,26 +1,75 @@
-🚀 Hi there! I’m a Full Stack Developer with 2+ years of hands-on experience building web applications through real-world projects and continuous self-learning. 
+🚀 **Full Stack Developer** passionate about building clean, efficient, and scalable applications using modern technologies like **Next.js**.
 
-I focus on clean architecture, performance, and modern technologies like Next.js, and I enjoy solving coding challenges by turning complex problems into simple, elegant solutions.  
+I’m continuously **learning and creating real-world projects**, improving my skills in performance optimization, maintainable architecture, and modern development best practices.
 
-<!-- <br><br>
-I’m a fast and self-learner who loves solving problems and thrives both independently and as a strong team player. Most of my journey has been driven by personal projects and continuous learning, where I push myself to adopt best practices and new technologies. -->
-Currently, I’m building full-stack projects with Next.js, applying best practices in performance optimization and scalability. My long-term goal is to grow with a forward-thinking company where I can contribute to building enterprise-grade applications that are robust, user-friendly, and efficient.
-
-
-
-<div align="center">
-
-## 💻 Tech Stack ⚡
-
-</div>
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-
-</br>
+🌱 Currently seeking an **internship opportunity** where I can contribute to meaningful projects, collaborate with experienced teams, and grow as a developer.
 <p align="center">
-<a href="https://twitter.com/faiyaz-sarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="faiyaz-sarkar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/faiyaz-sarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faiyaz-sarkar" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/faiyaz-sarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/faiyaz-sarkar" height="30" width="40" /></a>
+  <a href="https://twitter.com/faiyaz-sarkar" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/faiyaz-sarkar" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/@faiyaz-sarkar" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="40" width="40" /></a>
 </p>
 
-[![](https://visitcount.itsvg.in/api?id=faiyazdev&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- <h1 align="center" style="border:none;">💻 Skills & Expertise</h1> !-->
+## 🎨 Frontend Development
+
+<div align="left">
+<a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo" /></a><img width="20" />
+<a href="https://nextjs.org/" target="_blank"><img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" height="50" alt="nextjs logo" /></a><img width="20" />
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo" /></a><img width="20" />
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo" /></a><img width="20" />
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo" /></a><img width="20" />
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo" /></a><img width="20" />
+<a href="https://tailwindcss.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="50" alt="tailwindcss logo" /></a><img width="20" />
+<a href="https://redux.js.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="50" alt="redux logo" /></a><img width="20" />
+<a href="https://tanstack.com/query/latest" target="_blank"><img src="https://cdn.simpleicons.org/reactquery/FF4154" height="50" alt="react query logo" /></a>
+</div>
+
+<br/>
+
+## ⚙️ Backend Development
+
+<div align="left">
+<a href="https://nodejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo" /></a><img width="20" />
+<a href="https://expressjs.com/" target="_blank"><img src="https://cdn.simpleicons.org/express/FFFFFF" height="50" alt="express logo" /></a><img width="20" />
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo" /></a><img width="20" />
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo" /></a><img width="20" />
+<a href="https://clerk.com/" target="_blank"><img src="https://cdn.simpleicons.org/clerk/6C47FF" height="50" alt="clerk logo" /></a><img width="20" />
+<a href="https://elysiajs.com/" target="_blank"><img src="https://elysiajs.com/assets/elysia.svg" height="50" alt="elysia logo" /></a>
+</div>
+
+
+<br/>
+
+## 🗄️ Database & ORM
+
+<div align="left">
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="mongodb logo" /></a><img width="20" />
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo" /></a><img width="20" />
+<a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo" /></a><img width="20" />
+<a href="https://www.prisma.io/" target="_blank"><img src="https://skillicons.dev/icons?i=prisma" height="50" alt="prisma logo" /></a><img width="20" />
+<a href="https://orm.drizzle.team/" target="_blank"><img src="https://cdn.simpleicons.org/drizzle/C5F74F" height="50" alt="drizzle logo" /></a><img width="20" />
+<a href="https://mongoosejs.com/" target="_blank"><img src="https://cdn.simpleicons.org/mongoose/FFFFFF" height="50" alt="mongoose logo" /></a><img width="20" />
+<a href="https://neon.tech/" target="_blank"><img src="https://logo.svgcdn.com/l/neon-icon.svg" height="50" alt="Neon serverless database logo" /></a>
+</div>
+
+<br/>
+
+
+<!--
+## 🛠️ Tools & DevOps
+
+<div align="left">
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo" />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="50" alt="vercel logo" />
+</div>
+
+<br/>
+
+## 📚 Additional Technologies
+
+<div align="left">
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=vite" height="50" alt="vite logo" />
+</div>
+
+<br/> --!>
