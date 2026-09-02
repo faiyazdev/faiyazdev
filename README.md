@@ -26,7 +26,10 @@ I’m continuously **learning and creating real-world projects**, improving my s
 - 🖥️ Developing an interest in **Backend Development**
 - 🎯 Working toward becoming a strong problem solver and, eventually, a **Cybersecurity Specialist**
 
-## 💻 Tech Stack
+
+<div align="center">
+  <h2><img src="https://api.iconify.design/lucide/layers.svg?color=%233B82F6" width="24" align="absmiddle"/> Tech Stack</h2>
+</div>
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
@@ -50,10 +53,11 @@ I’m continuously **learning and creating real-world projects**, improving my s
   <img src="https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" />
   <img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black" />
 </p>
-<br/>
 
 <div align="center">
   <h2><img src="https://api.iconify.design/lucide/bar-chart-2.svg?color=%233B82F6" width="24" align="absmiddle"/> GitHub Stats</h2>
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=asgorfaiyaz&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asgorfaiyaz&theme=tokyonight&animation=rise)
 </div>
