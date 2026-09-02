@@ -51,3 +51,9 @@ I’m continuously **learning and creating real-world projects**, improving my s
   <img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black" />
 </p>
 <br/>
+
+<div align="center">
+  <h2><img src="https://api.iconify.design/lucide/bar-chart-2.svg?color=%233B82F6" width="24" align="absmiddle"/> GitHub Analytics</h2>
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=asgorfaiyaz&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+</div>
