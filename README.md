@@ -2,11 +2,11 @@
 
 🚀 **Full Stack Developer** passionate about building clean, efficient, and scalable applications using modern technologies like **Next.js**.
 
- - <img src="https://api.iconify.design/lucide/settings.svg?color=%233B82F6" width="16" align="absmiddle"/> I use daily : `React.js, Next.js, TypeScript, Redux`
+ - <img src="https://api.iconify.design/lucide/settings.svg?color=%233B82F6" width="16" align="absmiddle"/> My go-to technologies: `Next.js, TypeScript, Prisma, Express`
  - <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%233B82F6" width="16" align="absmiddle"/> Learning Full-Stack Engineering at Programming Hero while building industry-standard web applications
+ - <img src="https://api.iconify.design/lucide/badge-check.svg?color=%233B82F6" width="16" align="absmiddle"/> Preparing myself for a Frontend Engineering role and improving my English communication skills
+ - <img src="https://api.iconify.design/lucide/youtube.svg?color=%233B82F6" width="16" align="absmiddle"/> Following Web Dev Simplified, JavaScript Mastery, and Scrimba every day on YouTube
  - <img src="https://api.iconify.design/lucide/sparkles.svg?color=%233B82F6" width="16" align="absmiddle"/> Exploring <strong>AI-powered development</strong> to improve development speed and ship products faster
- - <img src="https://api.iconify.design/lucide/badge-check.svg?color=%233B82F6" width="16" align="absmiddle"/> Preparing myself for a Frontend Engineering role by practicing interview questions and improving my English communication skills
- - <img src="https://api.iconify.design/lucide/youtube.svg?color=%233B82F6" width="16" align="absmiddle"/> Following Web Dev Simplified, JavaScript Mastery, and Scrimba every day as I work toward becoming a Senior Engineer
 
 
 <div align="center">
