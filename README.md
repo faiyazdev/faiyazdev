@@ -45,5 +45,6 @@
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=asgorfaiyaz&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asgorfaiyaz&theme=tokyonight&animation=rise)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=asgorfaiyaz&langs_count=4&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=asgorfaiyaz&langs_count=4&theme=dark)
 </div>
