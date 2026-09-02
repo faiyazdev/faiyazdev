@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=00F7FF&font=Fira+Code&duration=400&pause=2000&center=true&width=900&lines=Frontend+Engineer;Next.js+Developer)](https://git.io/typing-svg)
 
-🚀 **Full Stack Developer** passionate about building clean, efficient, and scalable applications using modern technologies like **Next.js**.
+🚀 **Full Stack Developer focused on frontend engineering**, specializing in **React and Next.js** to build modern, responsive, and scalable web applications. Experienced with backend development, REST APIs, authentication, and database design, giving me an understanding of the complete application stack.
+
 
  - <img src="https://api.iconify.design/lucide/settings.svg?color=%233B82F6" width="16" align="absmiddle"/> My go-to technologies: `Next.js, TypeScript, Prisma, Express`
  - <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%233B82F6" width="16" align="absmiddle"/> Learning Full-Stack Engineering at Programming Hero while building industry-standard web applications
