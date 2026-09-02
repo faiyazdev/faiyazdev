@@ -3,7 +3,7 @@
 🚀 **Full Stack Developer focused on frontend engineering**, working primarily with **React and Next.js** to build modern, responsive, and scalable web applications. I also work with **backend development, REST APIs, authentication, and databases**, giving me a solid understanding of the full application stack.
 
 
-#### 🔥 What I'm Up To 
+### 🔥 What I'm Up To 
  - <img src="https://api.iconify.design/lucide/settings.svg?color=%233B82F6" width="16" align="absmiddle"/> My go-to technologies: `Next.js, TypeScript, Prisma, Express`
  - <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%233B82F6" width="16" align="absmiddle"/> Learning Full-Stack Engineering at Programming Hero while building industry-standard web applications
  - <img src="https://api.iconify.design/lucide/badge-check.svg?color=%233B82F6" width="16" align="absmiddle"/> Preparing myself for a Frontend Engineering role and improving my English communication skills
