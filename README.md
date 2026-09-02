@@ -2,8 +2,15 @@
 
 🚀 **Full Stack Developer focused on frontend engineering**, working primarily with **React and Next.js** to build modern, responsive, and scalable web applications. I also work with **backend development, REST APIs, authentication, and databases**, giving me a solid understanding of the full application stack.
 
+</br>
 
-### 🔥 What I'm Up To 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=F7F7F7&font=Fira+Code&duration=200&pause=1000&center=true&repeat=false&width=900&lines=%F0%9F%94%A5+What+I'm+Up+To)](https://git.io/typing-svg)
+
+- <img src="https://api.iconify.design/lucide/settings.svg?color=%233B82F6" width="16" align="absmiddle"/> My go-to technologies: `Next.js, TypeScript, Prisma, Express`
+- <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%233B82F6" width="16" align="absmiddle"/> Learning Full-Stack Engineering at Programming Hero while building industry-standard web applications
+- <img src="https://api.iconify.design/lucide/badge-check.svg?color=%233B82F6" width="16" align="absmiddle"/> Preparing myself for a Frontend Engineering role and improving my English communication skills
+- <img src="https://api.iconify.design/lucide/youtube.svg?color=%233B82F6" width="16" align="absmiddle"/> Following Web Dev Simplified, JavaScript Mastery, and Scrimba every day on YouTube
+- <img src="https://api.iconify.design/lucide/sparkles.svg?color=%233B82F6" width="16" align="absmiddle"/> Exploring <strong>AI-powered development</strong> to improve development speed and ship products faster)](https://git.io/typing-svg)
  - <img src="https://api.iconify.design/lucide/settings.svg?color=%233B82F6" width="16" align="absmiddle"/> My go-to technologies: `Next.js, TypeScript, Prisma, Express`
  - <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%233B82F6" width="16" align="absmiddle"/> Learning Full-Stack Engineering at Programming Hero while building industry-standard web applications
  - <img src="https://api.iconify.design/lucide/badge-check.svg?color=%233B82F6" width="16" align="absmiddle"/> Preparing myself for a Frontend Engineering role and improving my English communication skills
