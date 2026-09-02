@@ -2,16 +2,11 @@
 
 🚀 **Full Stack Developer** passionate about building clean, efficient, and scalable applications using modern technologies like **Next.js**.
 
-I’m continuously **learning and creating real-world projects**, improving my skills in performance optimization, maintainable architecture, and modern development best practices.
-
-🌱 Currently seeking an **internship opportunity** where I can contribute to meaningful projects, collaborate with experienced teams, and grow as a developer.
-
-<ul>
-  <li> <img src="https://api.iconify.design/lucide/code.svg?color=%233B82F6" width="16" align="absmiddle" /> Brushing upon on <strong> React & TypeScript </strong> through Programming Hero</li>
-  <li><img src="https://api.iconify.design/lucide/server.svg?color=%233B82F6" width="16" align="absmiddle"/> Developing REST APIs using Node.js & Express</li>
-  <li><img src="https://api.iconify.design/lucide/database.svg?color=%233B82F6" width="16" align="absmiddle"/> Designing efficient MongoDB & SQL database systems</li>
-  <li><img src="https://api.iconify.design/lucide/lock.svg?color=%233B82F6" width="16" align="absmiddle"/> Applying secure coding principles in web applications</li>
-</ul>
+ - <img src="https://api.iconify.design/lucide/settings.svg?color=%233B82F6" width="16" align="absmiddle"/> I use daily : `React.js, Next.js, TypeScript, Redux`
+ - <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%233B82F6" width="16" align="absmiddle"/> Learning Full-Stack Engineering at Programming Hero while building industry-standard web applications
+ - <img src="https://api.iconify.design/lucide/sparkles.svg?color=%233B82F6" width="16" align="absmiddle"/> Exploring <strong>AI-powered development</strong> to improve development speed and ship products faster
+ - <img src="https://api.iconify.design/lucide/badge-check.svg?color=%233B82F6" width="16" align="absmiddle"/> Preparing myself for a Frontend Engineering role by practicing interview questions and improving my English communication skills
+ - <img src="https://api.iconify.design/lucide/youtube.svg?color=%233B82F6" width="16" align="absmiddle"/> Following Web Dev Simplified, JavaScript Mastery, and Scrimba every day as I work toward becoming a Senior Engineer
 
 
 <div align="center">
