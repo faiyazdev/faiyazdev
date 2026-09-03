@@ -1,3 +1,8 @@
+![My Developer Banner](./assets/banner.png)
+
+
+</br>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=00F7FF&font=Fira+Code&duration=400&pause=2000&center=true&width=900&lines=Frontend+Engineer;Next.js+Developer)](https://git.io/typing-svg)
 
 🚀 **Full Stack Developer focused on frontend engineering**, working primarily with **React and Next.js** to build modern, responsive, and scalable web applications. I also work with **backend development, REST APIs, authentication, and databases**, giving me a solid understanding of the full application stack.
